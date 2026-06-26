@@ -79,6 +79,25 @@
 [![LidSync](https://img.shields.io/badge/LidSync-Repo-3AF3E7?style=for-the-badge&logo=github)](https://github.com/Neykoor/lidsync)
 [![kamijs](https://img.shields.io/badge/kamijs-Repo-DA51F7?style=for-the-badge&logo=github)](https://github.com/Neykoor/kamijs)
 
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neykoor&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neykoor&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Neykoor&theme=tokyonight&hide_border=true" />
+
+<img src="https://count.getloli.com/@Neykoor?name=Neykoor&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" />
+
+
+
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer"/>
