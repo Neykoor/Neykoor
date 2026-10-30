@@ -1,103 +1,90 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=header&text=Neykoor&fontSize=48&fontColor=45E7F7&animation=fadeIn&fontAlignY=38" alt="Encabezado"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=500&height=50&lines=%E2%9C%A8+%C2%A1Hola%2C+soy+Neykoor!+%F0%9F%91%8B;%F0%9F%87%B2%F0%9F%87%BD+Desarrollador+%E2%80%94+M%C3%A9xico;%F0%9F%9B%A0%EF%B8%8F+Librer%C3%ADas+para+bots+de+WhatsApp" alt="Typing SVG" /></a>
-
-> `🫶 "El código limpio no se escribe — se reescribe hasta que duele menos."`
-
-</div>
-
----
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
+<a href="https://github.com/Neykoor">
+<img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=550&height=50&lines=%E2%9C%A8+%C2%A1Hola%2C+soy+Neykoor!+%F0%9F%91%8B;%F0%9F%87%B2%F0%9F%87%BD+Desarrollador+%E2%80%94+M%C3%A9xico;%F0%9F%9B%A0%EF%B8%8F+Librer%C3%ADas+para+bots+de+WhatsApp" alt="Presentación animada"/>
+</a>
 
 <br/>
 
-<img src="https://github-stats-alpha.vercel.app/api?username=Neykoor&cc=000000&tc=7A7ADB&ic=2234AE&bc=130F40" width="450"/>
+*🫶 "El código limpio no se escribe — se reescribe hasta que duele menos."*
 
-<br/><br/>
+<br/>
 
-[![committers.top badge](https://user-badge.committers.top/mexico/Neykoor.svg)](https://committers.top/mexico#Neykoor)
-[![](https://moe-counter.glitch.me/get/@:Neykoor?theme=aso)](https://moe-counter.glitch.me)
+[![GitHub](https://img.shields.io/badge/GitHub-Neykoor-181717?style=for-the-badge&logo=github)](https://github.com/Neykoor)
+![Vistas del perfil](https://komarev.com/ghpvc/?username=Neykoor&color=7A7ADB&style=for-the-badge&label=VISTAS)
+[![committers.top](https://user-badge.committers.top/mexico/Neykoor.svg)](https://committers.top/mexico#Neykoor)
 
 </div>
-
-<p align="center">
-<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw">
-</p>
 
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A945&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%9B%A0%EF%B8%8F+TECNOLOG%C3%8DAS+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" /></a>
 
-<br/><br/>
+## 👋 Sobre mí
+
+</div>
+
+- 🇲🇽 Desarrollador desde México
+- 🛠️ Creo librerías y herramientas para bots de WhatsApp
+- 📦 Trabajo con JavaScript, Node.js y ES Modules
+- 🧼 Me gusta el código simple, claro y mantenible
+
+---
+
+<div align="center">
+
+## 🛠️ Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ESModules](https://img.shields.io/badge/ES%20Modules-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ES Modules](https://img.shields.io/badge/ES%20Modules-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Baileys](https://img.shields.io/badge/Baileys-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </div>
 
-<p align="center">
-<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw">
-</p>
-
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+LIBRER%C3%8DAS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<br/><br/>
+## 💻 Mis librerías
 
 <a href="https://github.com/Neykoor/lidsync">
-<img src="https://gh-card.dev/repos/Neykoor/lidsync.svg?fullname=&theme=dark" width="400"/>
+<img src="https://gh-card.dev/repos/Neykoor/lidsync.svg?fullname=&theme=dark" width="400" alt="Repositorio lidsync"/>
 </a>
-
 <a href="https://github.com/Neykoor/kamijs">
-<img src="https://gh-card.dev/repos/Neykoor/kamijs.svg?fullname=&theme=dark" width="400"/>
+<img src="https://gh-card.dev/repos/Neykoor/kamijs.svg?fullname=&theme=dark" width="400" alt="Repositorio kamijs"/>
 </a>
 
 </div>
 
-<p align="center">
-<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw">
-</p>
+---
+
+<div align="center">
+
+## 📊 Estadísticas
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neykoor&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neykoor&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Neykoor&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
+
+</div>
 
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=30&lines=%E2%9C%89%EF%B8%8F+CONT%C3%81CTAME+%E2%9C%89%EF%B8%8F" alt="Typing SVG" /></a>
 
-<br/><br/>
+## ✉️ Contáctame
 
 [![GitHub](https://img.shields.io/badge/GitHub-Neykoor-181717?style=for-the-badge&logo=github)](https://github.com/Neykoor)
-[![LidSync](https://img.shields.io/badge/LidSync-Repo-3AF3E7?style=for-the-badge&logo=github)](https://github.com/Neykoor/lidsync)
+[![LidSync](https://img.shields.io/badge/LidSync-Repo-3AF3E7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Neykoor/lidsync)
 [![kamijs](https://img.shields.io/badge/kamijs-Repo-DA51F7?style=for-the-badge&logo=github)](https://github.com/Neykoor/kamijs)
-
-
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neykoor&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neykoor&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=Neykoor&theme=tokyonight&hide_border=true" />
-
-<img src="https://count.getloli.com/@Neykoor?name=Neykoor&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" />
-
----
-
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" alt="Pie de página"/>
