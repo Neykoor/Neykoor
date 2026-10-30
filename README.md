@@ -73,6 +73,8 @@
 
 <img src="https://streak-stats.demolab.com?user=Neykoor&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
 
+<img src="https://count.getloli.com/@Neykoor?name=Neykoor&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" alt="Contador anime"/>
+
 </div>
 
 ---
